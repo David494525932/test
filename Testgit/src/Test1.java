@@ -37,7 +37,7 @@ public class Test1 {
 	}
 
 	public void test7() {
-	System.out.println("推送到远程1");
+	System.out.println("推送到远程13");
 }
 	public void test8() {
 
