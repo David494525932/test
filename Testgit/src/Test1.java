@@ -3,16 +3,14 @@ public class Test1 {
 
 
 	public void test1() {
-		System.out.println("没有提交到本地test1");
+		System.out.println("没有提交到本地test1111");
 	}
 	
 	public void test11() {
-		System.out.println("没有提交到本地test11");
+		System.out.println("没有提交到本地test1111");
 	}
 	
-	public void test111() {
-		System.out.println("没有提交到本地test111");
-	}
+
 
 	public void test2() {
 		System.out.println("提交到本地");
@@ -26,6 +24,8 @@ public class Test1 {
 		System.out.println("推送到远程");
 	}
 
-
+	public void test4() {
+		System.out.println("推送到远程");
+	}
 
 }
