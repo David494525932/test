@@ -2,7 +2,7 @@
 public class Test1 {
 
 
-	public void test11() {
+	public void test1() {
 		System.out.println("没有提交到本地");
 	}
 
