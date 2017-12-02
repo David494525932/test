@@ -18,7 +18,11 @@ public class Test1 {
 		System.out.println("推送到远程");
 	}
 
+	public void test9() {
 
+
+		System.out.println("推送到远程1");
+	}
 
 
 }
