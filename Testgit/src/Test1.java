@@ -3,13 +3,9 @@ public class Test1 {
 
 	public void test1() {
 
-
-
-		System.out.println("提交到本地test");
-
+		System.out.println("提交到本地test11231");
 
 	}
-
 
 	public void test2() {
 		System.out.println("提交到本地test234");
