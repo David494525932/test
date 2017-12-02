@@ -12,7 +12,7 @@ public class Test1 {
 
 
 	public void test2() {
-		System.out.println("提交到本地test2");
+		System.out.println("提交到本地test23");
 	}
 
 
