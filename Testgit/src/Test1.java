@@ -5,13 +5,13 @@ public class Test1 {
 
 		
 
-		System.out.println("提交到本地");
+		System.out.println("提交到本地2");
 
 
 	}
 
 	public void test2() {
-		System.out.println("提交到本地test234");
+	
 	}
 
 
