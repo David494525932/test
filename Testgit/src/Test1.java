@@ -7,8 +7,12 @@ public class Test1 {
 
 
 
-	System.out.println("提交到本地服务器测试--------本地修改");
-	System.out.println("提交到本地11");
+	/*System.out.println("提交到本地服务器测试--------本地修改");
+
+
+	System.out.println("提交到本地服务器测试-------服务器编辑");*/
+
+	System.out.println("解决冲突 代码合并");
 		System.out.println("提交到本地33");
 		System.out.println("本地测试");
 
