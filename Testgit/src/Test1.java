@@ -18,6 +18,7 @@ public class Test1 {
 	System.out.println("rose测试");
 	System.out.println("jack2222222222222222222222测试");
 	System.out.println("jack测试  冲突");
+	System.out.println("rose分支1修改完成");
 
 
 
