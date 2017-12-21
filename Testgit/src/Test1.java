@@ -5,7 +5,7 @@ public class Test1 {
 
 		
 	System.out.println("提交到本地服务器");
-	System.out.println("新建分支 提交");
+	System.out.println("新建分支 提交 冲突！！！");
 	System.out.println("提交到本地11");
 		System.out.println("提交到本地33");
 		System.out.println("本地测试");
