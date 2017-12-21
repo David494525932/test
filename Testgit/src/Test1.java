@@ -8,9 +8,7 @@ public class Test1 {
 
 
 
-	System.out.println("本地测试1");
-		System.out.println("提交到本地33");
-		System.out.println("本地测试");
+	System.out.println("David测试");
 
 
 
