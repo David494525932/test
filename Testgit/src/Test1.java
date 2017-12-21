@@ -7,14 +7,23 @@ public class Test1 {
 
 
 
-	/*System.out.println("提交到本地服务器测试--------本地修改");
-
-
-	System.out.println("提交到本地服务器测试-------服务器编辑");*/
-
-	System.out.println("解决冲突 代码合并");
+System.out.println("分支测试====================================");
+		
+	System.out.println("测试====================================");
 		System.out.println("提交到本地33");
 		System.out.println("本地测试");
+
+	System.out.println("David测试");
+	System.out.println("jack测试");
+	System.out.println("rose测试");
+	System.out.println("jack2222222222222222222222测试");
+	System.out.println("jack测试  冲突");
+	System.out.println("rose分支1修改完成");
+	System.out.println("rose分支2修改完成");
+
+
+
+
 
 
 
