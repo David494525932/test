@@ -18,10 +18,9 @@ System.out.println("分支测试====================================13123123");
 	System.out.println("jack测试");
 	System.out.println("rose测试");
 	System.out.println("jack2222222222222222222222测试");
-	System.out.println("jack测试  冲突");
-	System.out.println("rose分支1修改完成");
-	System.out.println("rose分支2修改完成");
-	System.out.println("jack分支testgit修改完成");
+	System.out.println("jack提交代码");
+
+
 
 
 
