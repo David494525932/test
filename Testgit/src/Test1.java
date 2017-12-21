@@ -12,11 +12,10 @@ public class Test1 {
 	System.out.println("测试====================================");
 		System.out.println("提交到本地33");
 		System.out.println("本地测试");
-
-	System.out.println("David测试");
+	System.out.println("David测试  ");
 	System.out.println("jack测试");
 	System.out.println("rose测试");
-	System.out.println("jack测试");
+	System.out.println("jack测试  冲突");
 
 
 
